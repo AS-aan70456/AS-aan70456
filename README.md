@@ -10,3 +10,5 @@
 
 <h4>Stack:<h4>
 <h5 style="color:#777; margin-left: 20px;">С#, OOP, Asp.Net Core, EntityFrameworkCore, Identity, Git, mcSQL JavaScript, Jquery, Ajax, Html, Css, Xml, Json, Azure, Microsoft Server, IIS, Web API, MVC, MVVM, OpenGL<h5>
+  
+![GivEyouUp](https://github.com/AS-aan70456/AS-aan70456/assets/107953303/567333ed-9535-49a9-8fde-bdda19225e7d)
